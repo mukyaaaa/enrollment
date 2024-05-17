@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kyle\\Documents\\KYAKYA\\Enrollment System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{607180A5-3AE6-4F0E-83BB-E31AE8BC58D0}|Enrollment System\\Enrollment System.csproj|c:\\users\\kyle\\documents\\kyakya\\enrollment system\\enrollment system\\studentenrollmententry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607180A5-3AE6-4F0E-83BB-E31AE8BC58D0}|Enrollment System\\Enrollment System.csproj|solutionrelative:enrollment system\\studentenrollmententry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607180A5-3AE6-4F0E-83BB-E31AE8BC58D0}|Enrollment System\\Enrollment System.csproj|C:\\Users\\kyle\\Documents\\KYAKYA\\Enrollment System\\enrollment system\\studentenrollmententry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{607180A5-3AE6-4F0E-83BB-E31AE8BC58D0}|Enrollment System\\Enrollment System.csproj|solutionrelative:enrollment system\\studentenrollmententry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607180A5-3AE6-4F0E-83BB-E31AE8BC58D0}|Enrollment System\\Enrollment System.csproj|c:\\users\\kyle\\documents\\kyakya\\enrollment system\\enrollment system\\subjectscheduleentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607180A5-3AE6-4F0E-83BB-E31AE8BC58D0}|Enrollment System\\Enrollment System.csproj|solutionrelative:enrollment system\\subjectscheduleentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607180A5-3AE6-4F0E-83BB-E31AE8BC58D0}|Enrollment System\\Enrollment System.csproj|C:\\Users\\kyle\\Documents\\KYAKYA\\Enrollment System\\enrollment system\\subjectscheduleentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{607180A5-3AE6-4F0E-83BB-E31AE8BC58D0}|Enrollment System\\Enrollment System.csproj|solutionrelative:enrollment system\\subjectscheduleentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607180A5-3AE6-4F0E-83BB-E31AE8BC58D0}|Enrollment System\\Enrollment System.csproj|c:\\users\\kyle\\documents\\kyakya\\enrollment system\\enrollment system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{607180A5-3AE6-4F0E-83BB-E31AE8BC58D0}|Enrollment System\\Enrollment System.csproj|solutionrelative:enrollment system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607180A5-3AE6-4F0E-83BB-E31AE8BC58D0}|Enrollment System\\Enrollment System.csproj|c:\\users\\kyle\\documents\\kyakya\\enrollment system\\enrollment system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607180A5-3AE6-4F0E-83BB-E31AE8BC58D0}|Enrollment System\\Enrollment System.csproj|solutionrelative:enrollment system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentEnrollmentEntry.cs",
+              "DocumentMoniker": "C:\\Users\\kyle\\Documents\\KYAKYA\\Enrollment System\\Enrollment System\\StudentEnrollmentEntry.cs",
+              "RelativeDocumentMoniker": "Enrollment System\\StudentEnrollmentEntry.cs",
+              "ToolTip": "C:\\Users\\kyle\\Documents\\KYAKYA\\Enrollment System\\Enrollment System\\StudentEnrollmentEntry.cs",
+              "RelativeToolTip": "Enrollment System\\StudentEnrollmentEntry.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:59:57.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentEnrollmentEntry.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kyle\\Documents\\KYAKYA\\Enrollment System\\Enrollment System\\StudentEnrollmentEntry.cs",
+              "RelativeDocumentMoniker": "Enrollment System\\StudentEnrollmentEntry.cs",
+              "ToolTip": "C:\\Users\\kyle\\Documents\\KYAKYA\\Enrollment System\\Enrollment System\\StudentEnrollmentEntry.cs [Design]",
+              "RelativeToolTip": "Enrollment System\\StudentEnrollmentEntry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:02:04.44Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubjectScheduleEntry.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kyle\\Documents\\KYAKYA\\Enrollment System\\Enrollment System\\SubjectScheduleEntry.cs",
+              "RelativeDocumentMoniker": "Enrollment System\\SubjectScheduleEntry.cs",
+              "ToolTip": "C:\\Users\\kyle\\Documents\\KYAKYA\\Enrollment System\\Enrollment System\\SubjectScheduleEntry.cs [Design]",
+              "RelativeToolTip": "Enrollment System\\SubjectScheduleEntry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:01:21.569Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubjectScheduleEntry.cs",
+              "DocumentMoniker": "C:\\Users\\kyle\\Documents\\KYAKYA\\Enrollment System\\Enrollment System\\SubjectScheduleEntry.cs",
+              "RelativeDocumentMoniker": "Enrollment System\\SubjectScheduleEntry.cs",
+              "ToolTip": "C:\\Users\\kyle\\Documents\\KYAKYA\\Enrollment System\\Enrollment System\\SubjectScheduleEntry.cs",
+              "RelativeToolTip": "Enrollment System\\SubjectScheduleEntry.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAiwPEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T02:44:16.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kyle\\Documents\\KYAKYA\\Enrollment System\\Enrollment System\\Form1.cs",
+              "RelativeDocumentMoniker": "Enrollment System\\Form1.cs",
+              "ToolTip": "C:\\Users\\kyle\\Documents\\KYAKYA\\Enrollment System\\Enrollment System\\Form1.cs [Design]",
+              "RelativeToolTip": "Enrollment System\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:00:35.502Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kyle\\Documents\\KYAKYA\\Enrollment System\\Enrollment System\\Form1.cs",
+              "RelativeDocumentMoniker": "Enrollment System\\Form1.cs",
+              "ToolTip": "C:\\Users\\kyle\\Documents\\KYAKYA\\Enrollment System\\Enrollment System\\Form1.cs",
+              "RelativeToolTip": "Enrollment System\\Form1.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAqwJYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T02:46:33.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
